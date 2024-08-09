@@ -1,0 +1,8 @@
+@startuml
+
+
+Repositorio_externo ->Repositorio_FALP : Guardar documento de entrada/Salida
+Repositorio_externo <--Repositorio_FALP : Bundler SearchSet
+
+
+@enduml

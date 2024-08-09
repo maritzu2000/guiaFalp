@@ -1,0 +1,8 @@
+@startuml
+
+
+Repositorio_externo ->Repositorio_FALP : Actualizar  documento de entrada/Salida
+Repositorio_externo <--Repositorio_FALP : Bundler document 
+
+
+@enduml
